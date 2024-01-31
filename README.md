@@ -22,12 +22,10 @@ Technologies Used
 
 
 Frontend:
-React.js
 HTML
 CSS
 
 
 Backend:
-Node.js
-Express.js
+Index.js
 MongoDB or MySQL (for database)
